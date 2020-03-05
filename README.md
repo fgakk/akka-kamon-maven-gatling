@@ -1,5 +1,5 @@
-# akka-kamon-maven-gatling
-Gatling Test Project for akka-kamon-maven to produce some load for metrics
+# gatling-example
+Gatling Test Project running against a rest service. The example source code for service is [here](spring-kotlin-example)
 
 ### How to run
 
